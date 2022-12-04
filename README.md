@@ -9,6 +9,7 @@
 ------------------|--------|--------
 Массивы           | 🟡    | <a href="https://github.com/Meshok/WASP/tree/main/Arrays">Перейти</a>
 Автопарк          | 🟡    | <a href="https://github.com/Meshok/WASP/tree/main/Autopark">Перейти</a>
+Магазин           | 🟡    | <a href="https://github.com/Meshok/WASP/tree/main/Store">Перейти</a>
 
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
